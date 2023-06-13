@@ -1,5 +1,5 @@
 # ericsson-rbs-6402-fan-chute
-3D printable fan adapter for the Ericsson RBS 6402 picocell
+3D-printable fan adapter for the Ericsson RBS 6402 picocell
 
 - for 60mm fans
 - M4 screws directly screw into the plastic part
